@@ -1,5 +1,5 @@
 ## Prerequisites
-Ensure you have this installed before proceeding further
+You have this installed 
 - Java 8
 - Maven 3.3.9+
 - Node 6.0 or above,  
